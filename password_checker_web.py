@@ -1,10 +1,3 @@
-Turn It into a Web App (Streamlit Version)
-
-Here’s the **web version** using Streamlit (easy to deploy for free):
-
-### 📦 Code: `password_checker_web.py`
-
-```python
 import streamlit as st
 import re
 
